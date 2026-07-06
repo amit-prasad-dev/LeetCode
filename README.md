@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amit-prasad-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/amit-prasad-dev/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/amit-prasad-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amit-prasad-dev/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/amit-prasad-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
 | ------- |
