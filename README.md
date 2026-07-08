@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2235-add-two-integers](https://github.com/amit-prasad-dev/LeetCode/tree/master/2235-add-two-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amit-prasad-dev/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/amit-prasad-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amit-prasad-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amit-prasad-dev/LeetCode/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
