@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amit-prasad-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/amit-prasad-dev/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/amit-prasad-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/amit-prasad-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amit-prasad-dev/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amit-prasad-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amit-prasad-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/amit-prasad-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
