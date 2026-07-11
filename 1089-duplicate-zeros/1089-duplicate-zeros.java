@@ -1,6 +1,6 @@
 class Solution {
     public void duplicateZeros(int[] arr) {
-
+        // Approach 1
         int[] dest = new int[arr.length];
 
         int s = 0,
