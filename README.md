@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amit-prasad-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amit-prasad-dev/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amit-prasad-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amit-prasad-dev/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amit-prasad-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/amit-prasad-dev/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amit-prasad-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/amit-prasad-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amit-prasad-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amit-prasad-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/amit-prasad-dev/LeetCode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amit-prasad-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amit-prasad-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amit-prasad-dev/LeetCode/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/amit-prasad-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amit-prasad-dev/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
