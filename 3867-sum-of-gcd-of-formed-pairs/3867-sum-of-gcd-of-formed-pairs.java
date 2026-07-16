@@ -28,7 +28,9 @@ class Solution {
         int l = 0,
             r = n - 1;
 
+        // Form pairs until pointers meet
         while(l < r ){
+            // Add gcd of current pair
             ans += gcd(prefixGcd[l], prefixGcd[r]);
             l++;
             r--;
