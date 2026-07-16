@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amit-prasad-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amit-prasad-dev/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/amit-prasad-dev/LeetCode/tree/master/2235-add-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amit-prasad-dev/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amit-prasad-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amit-prasad-dev/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Union-Find
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit-prasad-dev/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/amit-prasad-dev/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
