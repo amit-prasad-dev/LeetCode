@@ -87,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amit-prasad-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amit-prasad-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit-prasad-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amit-prasad-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit-prasad-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/amit-prasad-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit-prasad-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit-prasad-dev/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
