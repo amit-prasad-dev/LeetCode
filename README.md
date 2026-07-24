@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amit-prasad-dev/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/amit-prasad-dev/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/amit-prasad-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/amit-prasad-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/amit-prasad-dev/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/amit-prasad-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/amit-prasad-dev/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/amit-prasad-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amit-prasad-dev/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/amit-prasad-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amit-prasad-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amit-prasad-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
