@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/amit-prasad-dev/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amit-prasad-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/amit-prasad-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/amit-prasad-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amit-prasad-dev/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
