@@ -4,6 +4,7 @@ class Solution {
         int[] freq = new int[26];
 
         // Count fequency of each character
+        
         for (char ch : s.toCharArray()) {
             freq[ch - 'a']++;
         }
@@ -20,6 +21,7 @@ class Solution {
             }
 
             // Store the odd frequency character (if any)
+            // T.C = O(N / 2)
             if (freq[i]%2 == 1) {
                 middle = (char) ('a' + i);
             }
@@ -34,5 +36,22 @@ class Solution {
         }
 
         return left.toString() + right.toString();
+
+        /* Time Complexity */
+
+        // Counting frequency: O(n)
+        // Building left half: O(n/2)
+        // Reversing left half: O(n/2)
+
+        // Overall: O(n)
+
+        /* Space Complexity */
+
+        // Frequency array: O(26) ≈ O(1)
+        // StringBuilder for left and right: O(n)
+
+        // Overall: O(n)
+
+
     }
 }
