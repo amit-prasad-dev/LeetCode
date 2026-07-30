@@ -1,8 +1,9 @@
 class Solution {
     public int minimumPushes(String word) {
-        int n = word.length();
-        int blocks = n / 8;
-        return (blocks * (blocks + 1) * 4)
-                + (n % 8) * (blocks + 1);
+        int ans = 0;
+        for (int i = 0; i < word.length(); i++) {
+            ans = ans + (i/8) + 1;
+        }
+        return ans;
     }
 }
