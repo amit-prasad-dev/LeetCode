@@ -5,5 +5,7 @@ class Solution {
             ans = ans + (i/8) + 1;
         }
         return ans;
+        // T.C = O(N)
+        // S.C = O(1)
     }
 }
