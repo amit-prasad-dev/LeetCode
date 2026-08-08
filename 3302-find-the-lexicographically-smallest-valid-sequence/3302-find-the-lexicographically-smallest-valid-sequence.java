@@ -2,36 +2,61 @@ class Solution {
     public int[] validSequence(String word1, String word2) {
         int n = word1.length();
         int m = word2.length();
-
-        // suf[i] = how many character of word2
-        // can be matched from word1
-
-        int[] suf = new int[n+1];
+        // dp[i] = word1[i...] se word2 ke remaining
+        // characters ko exactly match karne ki maximum length
+        int[] dp = new int[n + 1];
         int j = m - 1;
-        for (int i = n-1; i >= 0; i--) {
+        // Right to Left
+        for (int i = n - 1; i >= 0; i--) {
             if (j >= 0 && word1.charAt(i) == word2.charAt(j)) {
+                dp[i] = dp[i + 1] + 1;
                 j--;
+            } else {
+                dp[i] = dp[i + 1];
             }
-            suf[i] = m - 1 - j;
         }
-
         int[] ans = new int[m];
-        int k = 0;
+        int i = 0;
         j = 0;
-        boolean used = false;
-
-        for (int i = 0; i < n && k < m; i++) {
-            // character already matched
+        // Find lexicographically smallest sequence
+        while (i < n && j < m) {
+            // Case 1: Characters match
             if (word1.charAt(i) == word2.charAt(j)) {
-                ans[k++] = i;
+                ans[j] = i;
                 j++;
+            } 
+            // Case 2: Characters don't match
+            else {
+                // Use this as the one allowed mismatch
+                // only if the remaining characters
+                // can be matched exactly.
+                if (dp[i + 1] >= m - 1 - j) {
+                    ans[j] = i;
+                    j++;
+                    // One mismatch has been used
+                    i++;
+                    break;
+                }
             }
-            else if (!used && suf[i + 1] >= m - j - 1) {
-                ans[k++] = i;
-                j++;
-                used = true;
-            }
+            i++;
         }
-        return k == m ? ans : new int[0];
+        // If we couldn't complete the answer
+        if (j < m && i == n) {
+            return new int[0];
+        }
+        // Mismatch has already been used.
+        // Now remaining characters must match exactly.
+        while (j < m && i < n) {
+            if (word1.charAt(i) == word2.charAt(j)) {
+                ans[j] = i;
+                j++;
+            }
+            i++;
+        }
+        // Still couldn't form word2
+        if (j < m) {
+            return new int[0];
+        }
+        return ans;
     }
 }
