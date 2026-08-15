@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amit-prasad-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/amit-prasad-dev/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amit-prasad-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/amit-prasad-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/amit-prasad-dev/LeetCode/tree/master/0486-predict-the-winner) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amit-prasad-dev/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/amit-prasad-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amit-prasad-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/amit-prasad-dev/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amit-prasad-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/amit-prasad-dev/LeetCode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amit-prasad-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amit-prasad-dev/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amit-prasad-dev/LeetCode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/amit-prasad-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amit-prasad-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/amit-prasad-dev/LeetCode/tree/master/0877-stone-game) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amit-prasad-dev/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amit-prasad-dev/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/amit-prasad-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/amit-prasad-dev/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amit-prasad-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amit-prasad-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/amit-prasad-dev/LeetCode/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amit-prasad-dev/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amit-prasad-dev/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
