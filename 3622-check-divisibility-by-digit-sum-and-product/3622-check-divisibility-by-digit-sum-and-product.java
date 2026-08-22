@@ -11,6 +11,6 @@ class Solution {
             temp /= 10;
         }
         int final_sum = digitSum + digitProduct;
-        return n % final_sum == 0 ? true : false; 
+        return n % final_sum == 0; 
     }
 }
