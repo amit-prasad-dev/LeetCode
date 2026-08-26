@@ -1,45 +1,47 @@
+import java.util.*;
+
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
 
-        int n = s.length();
-        int left = 0;
-        int ones = 0;
+        ArrayList<Integer> ones = new ArrayList<>();
+
+        // Store positions of all 1's
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '1') {
+                ones.add(i);
+            }
+        }
+
+        // Not enough 1's
+        if (ones.size() < k) {
+            return "";
+        }
 
         String ans = "";
 
-        for (int right = 0; right < n; right++) {
-            // Add current character
-            if (s.charAt(right) == '1') {
-                ones++;
+        // Check every group of k consecutive 1's
+        for (int i = 0; i <= ones.size() - k; i++) {
+
+            int start = ones.get(i);
+            int end = ones.get(i + k - 1);
+
+            String current = s.substring(start, end + 1);
+
+            // Shorter substring
+            if (ans.isEmpty() ||
+                current.length() < ans.length()) {
+
+                ans = current;
             }
-            // Remove unnecessary characters
-            while (ones > k || 
-                   (left < right && s.charAt(left) == '0')) {
 
-                if (s.charAt(left) == '1') {
-                    ones--;
-                }
-                left++;
-            }
+            // Same length → lexicographically smaller
+            else if (current.length() == ans.length() &&
+                     current.compareTo(ans) < 0) {
 
-            // We found a beautiful substring
-            if (ones == k) {
-                String current = s.substring(left, right + 1);
-
-                // Shorter substring
-                if (ans.isEmpty() ||
-                    current.length() < ans.length()) {
-
-                    ans = current;
-                }
-                // Same length → lexicographically smaller
-                else if (current.length() == ans.length() &&
-                         current.compareTo(ans) < 0) {
-
-                    ans = current;
-                }
+                ans = current;
             }
         }
+
         return ans;
     }
 }
